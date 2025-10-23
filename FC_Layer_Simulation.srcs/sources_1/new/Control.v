@@ -1,7 +1,7 @@
 `timescale 1ns / 1ps
 
 module CU(
-    input wire [3:0] opcode, 
+    input wire [3:0] opcode,  
     output reg register_write, 
     output reg ALUSrc, 
     output reg [2:0] ALUopcode, 
