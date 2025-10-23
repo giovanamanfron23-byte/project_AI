@@ -74,3 +74,6 @@ xvlog.*
 *.wpc
 *.wpc
 *.bat
+*.log
+level_one_ProjectModule5.cache/wt/project.wpc
+*.bat
